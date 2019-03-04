@@ -1,6 +1,6 @@
 # MockServerForTesting
 
-## This project provides template code to demonstrate basic usage of Swifter/Embassy local host
+This project provides template code to demonstrate basic usage of Swifter/Embassy local host
 
 ## A companion tutorial: 
 
