@@ -1,12 +1,12 @@
 # MockServerForTesting
 
-##This project provides template code to demonstrate basic usage of Swifter/Embassy local host
+## This project provides template code to demonstrate basic usage of Swifter/Embassy local host
 
-##A companion tutorial: 
+## A companion tutorial: 
 
 https://hadesmercury.blogspot.com/search/label/Mock%20Server
 
-##Please install with Carthage:
+## Please install with Carthage:
 
 github "envoy/Embassy" ~> 4.0
 
